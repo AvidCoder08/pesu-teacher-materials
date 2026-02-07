@@ -62,5 +62,13 @@
     "start_date": "2026-04-03",
     "end_date": "2026-04-04",
     "description": ""
+  },
+  {
+    "id": "evt_9_1770443767",
+    "title": "Dr. B R Ambedkar Jayanti",
+    "type": "holiday",
+    "start_date": "2026-04-14",
+    "end_date": null,
+    "description": ""
   }
 ]
