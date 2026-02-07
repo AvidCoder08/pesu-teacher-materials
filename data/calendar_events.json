@@ -126,5 +126,13 @@
     "start_date": "2026-06-04",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_17_1770444017",
+    "title": "Announcement of Results",
+    "type": "milestone",
+    "start_date": "2026-07-03",
+    "end_date": null,
+    "description": ""
   }
 ]
