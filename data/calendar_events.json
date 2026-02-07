@@ -78,5 +78,13 @@
     "start_date": "2026-04-29",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_11_1770443823",
+    "title": "May Day",
+    "type": "holiday",
+    "start_date": "2026-05-01",
+    "end_date": null,
+    "description": ""
   }
 ]
