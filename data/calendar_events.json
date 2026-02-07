@@ -134,5 +134,13 @@
     "start_date": "2026-07-03",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_18_1770444046",
+    "title": "Next Semester Commences",
+    "type": "milestone",
+    "start_date": "2026-08-03",
+    "end_date": null,
+    "description": ""
   }
 ]
