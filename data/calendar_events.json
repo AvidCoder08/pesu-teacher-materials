@@ -110,5 +110,13 @@
     "start_date": "2026-05-23",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_15_1770443980",
+    "title": "Final Attendance and Sessional Marks Display",
+    "type": "milestone",
+    "start_date": "2026-06-03",
+    "end_date": null,
+    "description": ""
   }
 ]
