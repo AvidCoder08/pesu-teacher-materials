@@ -14,5 +14,13 @@
     "start_date": "2026-03-19",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_3_1770443347",
+    "title": "CCM 1",
+    "type": "meeting",
+    "start_date": "2026-02-25",
+    "end_date": null,
+    "description": ""
   }
 ]
