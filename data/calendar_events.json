@@ -118,5 +118,13 @@
     "start_date": "2026-06-03",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_16_1770443997",
+    "title": "ESA Commences",
+    "type": "assessment",
+    "start_date": "2026-06-04",
+    "end_date": null,
+    "description": ""
   }
 ]
