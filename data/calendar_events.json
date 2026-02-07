@@ -94,5 +94,13 @@
     "start_date": "2026-05-13",
     "end_date": null,
     "description": ""
+  },
+  {
+    "id": "evt_13_1770443912",
+    "title": "ISA 2 Week",
+    "type": "assessment",
+    "start_date": "2026-05-23",
+    "end_date": "2026-05-30",
+    "description": ""
   }
 ]
