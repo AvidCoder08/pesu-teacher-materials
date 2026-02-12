@@ -66,5 +66,15 @@
     "material_type": "Textbook",
     "uploaded_by": "soham.shashank@outlook.com",
     "uploaded_at": "2026-02-11 11:07:16"
+  },
+  {
+    "id": "mat_8_1770871495",
+    "course_code": "2ND_SEM_C_PROGRAMMING",
+    "course_title": "2nd Semester - C Programming",
+    "filename": "Lab2_PES1UG25CS527.pdf",
+    "file_url": "https://cdn.jsdelivr.net/gh/AvidCoder08/pesu-teacher-materials@main/course_materials/2ND_SEM_C_PROGRAMMING/Lab/Lab2_PES1UG25CS527.pdf",
+    "material_type": "Lab",
+    "uploaded_by": "soham.shashank@outlook.com",
+    "uploaded_at": "2026-02-12 04:44:54"
   }
 ]
